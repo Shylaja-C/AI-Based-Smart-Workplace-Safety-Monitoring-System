@@ -15,13 +15,22 @@
 
 ---
 
-## 📸 Screenshots
+## 🎥 Live Demo & Screenshots
 
 <div align="center">
 
-### 🖥️ Desktop Interface
-([Screenshot 2026-02-01 002814.png](https://github.com/Shylaja-C/AI-Based-Smart-Workplace-Safety-Monitoring-System/blob/main/Screenshot%202026-02-01%20002814.png))
-*Comprehensive safety monitoring dashboard*
+### 📊 Dashboard Preview
+
+![SafeGuard AI Dashboard](https://raw.githubusercontent.com/Shylaja-C/AI-Based-Smart-Workplace-Safety-Monitoring-System/main/Screenshot%202026-02-01%20002814.png)
+
+**Features shown in screenshot:**
+- Real-time safety metrics
+- Live camera feeds
+- PPE compliance tracking
+- Alert notifications
+- Site overview
+
+</div>
 
 ### 🔍 What the Demo Shows
 | Feature | Description |
