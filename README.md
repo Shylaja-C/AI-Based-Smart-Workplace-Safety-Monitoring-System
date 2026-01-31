@@ -19,7 +19,7 @@
 
 ### 🎬 See It in Action
 
-[![Watch Demo](https://img.shields.io/badge/▶️_Watch_Live_Demo-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://onedrive.live.com/download?resid=87038a80068ac5c5!IQBQJr5MBErjR7jmuk7b1utZAe_zDO2z0CuiEbhrgrsJZrM)
+[![Download Demo](https://img.shields.io/badge/📁_Download_Demo_GIF-28A745?style=for-the-badge&logo=download&logoColor=white)](https://onedrive.live.com/download?resid=87038a80068ac5c5!IQBQJr5MBErjR7jmuk7b1utZAe_zDO2z0CuiEbhrgrsJZrM)
 
 ### 🎬 Quick Preview
 [![SafeGuard AI Demo](https://img.shields.io/badge/📱_See_Features_in_Action-4F46E5?style=for-the-badge&logo=github)](https://github.com/yourusername/safeguard-ai)
