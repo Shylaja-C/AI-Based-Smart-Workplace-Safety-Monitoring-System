@@ -1,58 +1,112 @@
 # AI-Based Smart Construction Site Safety Monitoring System
 
-This system monitors construction sites for safety using computer vision, detecting PPE, unauthorized persons, and unsafe behaviors.
+<div align="center">
 
-## Features
+![SafeGuard AI Banner](https://via.placeholder.com/1200x300/1e40af/ffffff?text=AI-Powered+Industrial+Safety+Monitoring+System)
 
-- Live camera feed processing
-- Employee database with QR code identification
-- PPE detection (helmet, safety vest)
-- Unsafe behavior detection (drowsiness)
-- Real-time risk scoring
-- Alert system (audio and visual)
-- Modular architecture for scalability
+[![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)](https://reactjs.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)](https://typescriptlang.org/)
+[![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)](https://vitejs.dev/)
+[![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=flat&logo=shadcnui&logoColor=white)](https://ui.shadcn.com/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-## Setup
+**Real-time PPE detection • Face recognition • Safety monitoring • Instant alerts**
 
-1. Install dependencies:
-   ```
-   pip install -r requirements.txt
-   ```
+</div>
 
-2. Download the dlib shape predictor model:
-   - Download `shape_predictor_68_face_landmarks.dat` from [dlib models](http://dlib.net/files/shape_predictor_68_face_landmarks.dat.bz2)
-   - Place it in the `models/` directory.
+---
 
-3. (Optional) Add an alert sound file `alert.wav` in `data/` for audio alerts.
+## 🎥 Live Demo
 
-4. Populate the employee database by running:
-   ```python
-   from src.database import EmployeeDB
-   db = EmployeeDB()
-   db.add_employee('EMP001', 'QR123', 'John Doe')
-   ```
+<div align="center">
 
-## Usage
+### 📹 Watch the Full Demo
 
-Run the main script:
-```
-python src/main.py
-```
+[![Watch Demo Video](https://img.shields.io/badge/▶️_Watch_Full_3-Minute_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/YOUR_VIDEO_LINK_HERE)
 
-The system will start monitoring the default camera (source 0). Press 'q' to quit.
+*Click above to watch the complete walkthrough of all features*
 
-For multiple cameras, modify the camera_sources list in main.py.
+### 🎬 Quick Preview
+[![SafeGuard AI Demo](https://img.shields.io/badge/📱_See_Features_in_Action-4F46E5?style=for-the-badge&logo=github)](https://github.com/yourusername/safeguard-ai)
 
-## Architecture
+### 🔍 What the Demo Shows
+| Feature | Description |
+|---------|-------------|
+| **Real-time PPE Detection** | Helmet, vest, goggles, and mask detection |
+| **Face Recognition** | Employee identification and access control |
+| **Live Dashboard** | Real-time safety metrics and analytics |
+| **Alert System** | Instant notifications for safety violations |
+| **Mobile Responsive** | Works on all devices and screen sizes |
 
-- `database.py`: Manages employee data
-- `camera.py`: Handles camera feeds
-- `qr_detector.py`: Detects QR codes
-- `ppe_detector.py`: Detects PPE using computer vision
-- `behavior_detector.py`: Detects drowsiness
-- `risk_scorer.py`: Calculates risk scores
-- `alert_system.py`: Handles alerts
-- `main.py`: Main application loop
+</div>
+
+---
+
+## ✨ Features
+
+### 🛡️ **Core Safety Features**
+- **Real-time PPE Detection** - Automatic detection of helmets, safety vests, goggles, and masks
+- **Face Recognition** - Employee identification and unauthorized personnel alerts
+- **Behavior Analysis** - Monitor posture, alertness, and safe work practices
+- **Zone Monitoring** - Restricted area access control and alerts
+- **Multi-Camera Support** - Simultaneous monitoring of multiple camera feeds
+
+### 📊 **Analytics & Reporting**
+- **Live Dashboard** - Real-time safety metrics and incident tracking
+- **Historical Reports** - Compliance documentation and trend analysis
+- **Custom Alerts** - Configurable notification thresholds
+- **Export Capabilities** - CSV/PDF reports for compliance audits
+- **Performance Metrics** - Safety compliance scores and trends
+
+### 🚨 **Alert & Notification System**
+- **Instant Notifications** - SMS, Email, and in-app alerts
+- **Escalation Rules** - Automated escalation for critical incidents
+- **Audit Trail** - Complete history of all safety events
+- **Mobile Alerts** - Push notifications to supervisors' devices
+- **Custom Alert Rules** - Site-specific safety rule configuration
+
+### 🎯 **Technical Capabilities**
+- **Real-time Processing** - Low latency AI inference (< 500ms)
+- **Offline Mode** - Local processing when connectivity is limited
+- **Scalable Architecture** - Cloud-ready deployment options
+- **API Integration** - RESTful APIs for third-party integration
+- **Role-based Access** - Multi-level user permissions
+
+---
+
+## 🏗️ Tech Stack
+
+| Layer | Technology | Purpose |
+|-------|------------|---------|
+| **Frontend Framework** | React 18 + TypeScript | Modern UI development |
+| **Build Tool** | Vite | Fast development & build |
+| **Styling** | Tailwind CSS + shadcn/ui | Utility-first styling |
+| **UI Components** | shadcn/ui + Lucide React | Accessible components |
+| **State Management** | React Hooks + Context | Local state management |
+| **AI/ML Processing** | TensorFlow.js + Custom Models | Browser-based inference |
+| **Charts & Visuals** | Recharts | Data visualization |
+| **Form Handling** | React Hook Form | Form validation |
+| **HTTP Client** | Axios | API communication |
+| **Code Quality** | ESLint + TypeScript | Code standards |
+| **Fonts** | Inter + JetBrains Mono | Modern typography |
+
+---
+
+## 🚀 Quick Start
+
+### Prerequisites
+- **Node.js 18** or higher
+- **npm, yarn, or pnpm** package manager
+- **Modern web browser** (Chrome 90+, Firefox 88+, Safari 14+)
+- **Camera access** (for demo mode)
+
+### Installation
+
+1. **Clone the repository**
+```bash
+git clone https://github.com/yourusername/safeguard-ai.git
+cd safeguard-ai
 
 ## Scalability
 
