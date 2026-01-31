@@ -2,8 +2,6 @@
 
 <div align="center">
 
-![SafeGuard AI Banner](https://via.placeholder.com/1200x300/1e40af/ffffff?text=AI-Powered+Industrial+Safety+Monitoring+System)
-
 [![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)](https://reactjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)](https://typescriptlang.org/)
 [![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)](https://vitejs.dev/)
@@ -17,12 +15,6 @@
 
 ---
 
-### 🎬 See It in Action
-
-[![Download Demo](https://img.shields.io/badge/📁_Download_Demo_GIF-28A745?style=for-the-badge&logo=download&logoColor=white)](https://onedrive.live.com/download?resid=87038a80068ac5c5!IQBQJr5MBErjR7jmuk7b1utZAe_zDO2z0CuiEbhrgrsJZrM)
-
-### 🎬 Quick Preview
-[![SafeGuard AI Demo](https://img.shields.io/badge/📱_See_Features_in_Action-4F46E5?style=for-the-badge&logo=github)](https://github.com/yourusername/safeguard-ai)
 
 ### 🔍 What the Demo Shows
 | Feature | Description |
@@ -94,6 +86,16 @@
 - **npm, yarn, or pnpm** package manager
 - **Modern web browser** (Chrome 90+, Firefox 88+, Safari 14+)
 - **Camera access** (for demo mode)
+
+## Scalability
+
+The system uses threading for multiple cameras. For cloud scaling, deploy on edge devices or cloud instances with multiple camera inputs.
+
+## Troubleshooting
+
+- If camera doesn't open, check camera permissions.
+- If dlib fails, ensure the model file is present.
+- For better PPE detection, train a custom model with YOLO or similar.
 
 ### Installation
 
