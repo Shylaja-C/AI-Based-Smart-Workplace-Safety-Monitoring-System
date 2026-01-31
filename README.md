@@ -15,6 +15,13 @@
 
 ---
 
+## 📸 Screenshots
+
+<div align="center">
+
+### 🖥️ Desktop Interface
+![Main Dashboard](Screenshot 2026-02-01 002814.png)
+*Comprehensive safety monitoring dashboard*
 
 ### 🔍 What the Demo Shows
 | Feature | Description |
