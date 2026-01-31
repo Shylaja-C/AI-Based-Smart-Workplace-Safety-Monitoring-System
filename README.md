@@ -23,7 +23,7 @@
 
 ### 📹 Watch the Full Demo
 
-[![Watch Demo Video](https://img.shields.io/badge/▶️_Watch_Full_3-Minute_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]("C:\Users\sunan\OneDrive\Desktop\Demo.gif")
+[![Watch Demo Video](https://img.shields.io/badge/▶️_Watch_Full_3-Minute_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](["C:\Users\sunan\OneDrive\Desktop\Demo.gif"](https://1drv.ms/i/c/87038a80068ac5c5/IQBQJr5MBErjR7jmuk7b1utZAe_zDO2z0CuiEbhrgrsJZrM?e=EEbHXP))
 
 *Click above to watch the complete walkthrough of all features*
 
