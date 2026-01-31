@@ -20,7 +20,7 @@
 <div align="center">
 
 ### 🖥️ Desktop Interface
-![Main Dashboard](Screenshot 2026-02-01 002814.png)
+![Main Dashboard]([Screenshot 2026-02-01 002814.png](https://github.com/Shylaja-C/AI-Based-Smart-Workplace-Safety-Monitoring-System/blob/main/Screenshot%202026-02-01%20002814.png))
 *Comprehensive safety monitoring dashboard*
 
 ### 🔍 What the Demo Shows
