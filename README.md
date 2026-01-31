@@ -19,18 +19,19 @@
 
 <div align="center">
 
-### 📊 Dashboard Preview
+## 📊 Dashboard Preview
 
 ![SafeGuard AI Dashboard](https://raw.githubusercontent.com/Shylaja-C/AI-Based-Smart-Workplace-Safety-Monitoring-System/main/Screenshot%202026-02-01%20002814.png)
 
-**Features shown in screenshot:**
+</div>
+
+
+### Features shown in screenshot
 - Real-time safety metrics
 - Live camera feeds
 - PPE compliance tracking
 - Alert notifications
 - Site overview
-
-</div>
 
 ### 🔍 What the Demo Shows
 | Feature | Description |
